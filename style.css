@@ -1,0 +1,33 @@
+.dark-mode {
+    background-color: black;
+}
+
+.form-group {
+    background-color: #a0a0a0;
+    color: white;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+.jordan-mode {
+    font-size: 30px;
+}
+
+.mirror-forms {
+    display: flex;
+    margin: 10 rem;
+    padding: 10 rem;
+    justify-content: space-around;
+}
+
+#first-article {
+    border: dotted;
+    border-color: blueviolet;
+    width: 50%;
+}
+
+#second-article {
+    border: dotted;
+    border-color: crimson;
+    width: 50%;
+}
